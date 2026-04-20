@@ -1,18 +1,33 @@
 h1 {
+<<<<<<< HEAD
     font-size: 40px;
     font-family: Arial;
+=======
+ font-size: 40px;
+ font-family: Arial
+>>>>>>> 6d19891a704f1f3611f6a17c597269ba1312895e
 }
 
 h2 {
+<<<<<<< HEAD
     font-size: 25px;
     font-family: Arial;
+=======
+ font-size: 25px;
+ font-family: Arial
+>>>>>>> 6d19891a704f1f3611f6a17c597269ba1312895e
 }
 
 h3 {
+<<<<<<< HEAD
     font-family: Arial;
+=======
+ font-family: Arial
+>>>>>>> 6d19891a704f1f3611f6a17c597269ba1312895e
 }
 
 p {
+<<<<<<< HEAD
     font-size: 14px;
     font-family: Arial;
 }
@@ -21,3 +36,15 @@ div {
     background-color: darkcyan;
     text-align: right;
 }
+=======
+ font-size: 14px;
+ font-family: Arial
+}
+th, td {
+ padding: 8px;
+ text-align: left;
+ border-bottom: 1px solid #ddd;
+ font-family: Arial
+}
+tr:nth-child(odd) {background-color: #f2f2f2;}
+>>>>>>> 6d19891a704f1f3611f6a17c597269ba1312895e
